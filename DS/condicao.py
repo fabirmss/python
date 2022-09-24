@@ -6,5 +6,4 @@ def verifica_se_pode_dirigir_sem_parametro():
     else:
         print('Não tem permissão para dirigir!')
 
-
 verifica_se_pode_dirigir_sem_parametro()
